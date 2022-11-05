@@ -1,0 +1,36 @@
+{
+  "name": "jupiter",
+  "version": "1.0.0",
+  "description": "federal bank",
+  "main": "index.ts.js",
+  "scripts": {
+    "test": "echo federal bank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcapd7363q/jupiter.git"
+  },
+  "keywords": [
+    "visa",
+    "signature",
+    "money",
+    "jupiter",
+    "federal",
+    "security",
+    "bikash-dash"
+  ],
+  "author": "bikash dash",
+  "license": "NIIT",
+  "bugs": {
+    "url": "https://github.com/bcapd7363q/jupiter/issues"
+  },
+  "homepage": "https://github.com/bcapd7363q/jupiter#readme",
+  "dependencies": {
+    "node": "^19.0.1",
+    "react": "^18.2.0",
+    "ts": "^0.2.2"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
