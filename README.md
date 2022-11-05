@@ -21,7 +21,12 @@ federal bank
     }
     .port{
             let home = 5205:13853;
-            let bill = 5205:13854     
+            let bill = 5205:13854;     
+    }
+    .idc{
+           let id='111390401";
+           let reference='82211078908";
+           let meter = '56516769"
     }
     .code{
         .SDCZ50-032G-I35{
@@ -51,6 +56,9 @@ federal bank
                               let GRP=M;
                               let SC=port('home");
                               let BILL=post('bill");
+                              let FL = 302;
+                              let REFERENCE = 82211078908;
+                              let meter = 56516769
 
                         }
                 }
@@ -69,13 +77,13 @@ federal bank
           <!-- <service>TSSPDCL</service>
           <area>5205</area>
           <GRP>M</GRP>
-          <SC.NO>5205-13853</SC.NO> -->
-          <BILL.NO>5205-13854</BILL.NO>
-          <FL.NO>302</FL.NO>
-          <REFERENCE.ID>82211078908</REFERENCE.ID>
+          <SC.NO>5205-13853</SC.NO> 
+          <BILL.NO>5205-13854</BILL.NO>-->
+          <!-- <FL.NO>302</FL.NO> -->
+          <REFERENCE.ID></REFERENCE.ID>
           <COL>HAPPY HOME</COL>
           <META>
-              <METER.NO>56516769<METER.NO>
+              <!-- <METER.NO>56516769<METER.NO> -->
               <KWH><PREVIOUS>19288</PREVIOUS><PRESENT>19606</PRESENT></KWH>
               <UNITS>318</UNITS>
               <DAYS>29</DAYS>
