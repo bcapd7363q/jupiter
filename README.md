@@ -4,6 +4,26 @@ federal bank
     #eg : https://github.com/piotrwitek/react-redux-typescript-guide.git
     #npx react-native init PredatorSense --template #react-native-template-typescript
     #done# npx create-react-app PredatorSense --template redux-typescript
+
+
+# predator_modules(branch)
+  location
+  sense
+  feeds
+  services
+  provider
+  user
+  tool
+  preference
+  settings
+  editor
+  selection
+  re-search
+  issues
+  stock
+
+
+
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
     let external = storage;
@@ -17,7 +37,6 @@ federal bank
     
     
     
-   
     .usb{
         let product = code('SDCZ50-032G-I35")
         let devise  = are[phone:readMe,driver:sanDisk]
