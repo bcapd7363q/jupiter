@@ -6,7 +6,7 @@ federal bank
     #done# npx create-react-app PredatorSense --template redux-typescript
 
 
-# predator_modules(branch)
+# predator-modules(branch)
   location
   sense
   feeds
@@ -20,7 +20,7 @@ federal bank
   selection
   re-search
   issues
-  stock
+  stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
 
 
 
