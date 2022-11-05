@@ -2,12 +2,12 @@
 federal bank
 # TODO
     #eg : https://github.com/piotrwitek/react-redux-typescript-guide.git
-    #npx react-native init PredatorSense --template react-native-template-typescript
-    npx create-react-app PredatorSense --template redux-typescript
+    #npx react-native init PredatorSense --template #react-native-template-typescript
+    #done# npx create-react-app PredatorSense --template redux-typescript
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
-    let external = storage
-    let sub      = 32GB  ## SanDisk cruZero blade.TM
+    let external = storage;
+    let sub      = 32GB;  ## SanDisk cruZero blade.TM
     .ram{
 
     }
@@ -16,14 +16,19 @@ federal bank
     }
     .generic{
         ufd:'usb flash Drive";
-
+        usb:'cuber blade tm usb 2.0 flash drive";
+        TSSPDCL:'Telangana Southern Service Power Distirbution Company Ltd
+    }
+    .port{
+            let home = 5205:13853;
+            let bill = 5205:13854     
     }
     .code{
         .SDCZ50-032G-I35{
-            tittle : sandisk
-            name:generic('usb flash Drive")
-            description : cuber blade tm usb 2.0 flash drive
-            origin : Malaysia
+            tittle : "sandisk";
+            name:generic('ufd");
+            description :generic('usb")
+            origin : country('+60")
             cz50 :32GB
             1GB : 1,000,000,000 bytes
             info : storage also used for memory optimization and performance. user storage is less then full capacity
@@ -31,26 +36,61 @@ federal bank
     }
     .usb{
         let product = code('SDCZ50-032G-I35")
-        let 
+        let devise  = are[phone:readMe,driver:sanDisk]
+    }
+    .dcp{#info or news
+          .location{
+              .postal{
+                pinPoint:500048;
+                area:"RAJENDERNAGER,Hyderabad";
+                plot(room)['room",'tp",'service",'area",'GRP",'SC",'BILL",'FL",'REFERENCE",'COL"]{
+                        .room{##room is default switch cash
+                              let id = 111390401;
+                              let service= generic('TSSPDCL");
+                              let area=5205;
+                              let GRP=M;
+                              let SC=port('home");
+                              let BILL=post('bill");
+
+                        }
+                }
+              }
+          }
     }
 }
 # info
 <location>
 <Postal>
-    <code>500048</code>
-    <area>satsang vihar</area>
+    <pinPoint></pinPoint>
+    <area></area>
     <plot>
       <room>
-        <tp id="?ebill=#####" >
-          <service>tpsodl</service>
+        <tp id="" >
+          <!-- <service>TSSPDCL</service>
+          <area>5205</area>
+          <GRP>M</GRP>
+          <SC.NO>5205-13853</SC.NO> -->
+          <BILL.NO>5205-13854</BILL.NO>
+          <FL.NO>302</FL.NO>
+          <REFERENCE.ID>82211078908</REFERENCE.ID>
+          <COL>HAPPY HOME</COL>
+          <META>
+              <METER.NO>56516769<METER.NO>
+              <KWH><PREVIOUS>19288</PREVIOUS><PRESENT>19606</PRESENT></KWH>
+              <UNITS>318</UNITS>
+              <DAYS>29</DAYS>
+              <RMD>3.81</RMD>
+              <AAO><ERO>322</ERO></AAO>
+          <META>
+          <USC>111390395</USC>
         </tp>
         <contacts value="passport@v4904657">
           <tel value="+1947">
             <aadhaar value="7240.5889.1408">
               <phone value="user@olivewood">Redmi</phone>
               <cell>
-                <numbers value="num@9937090484">jio</numbers>
-                <iccid value="id@89918610400285549615">With Love, From Jio.<iccid>
+                <numbers value="num@9937090484">JIO</numbers>
+                <iccid value="id@89918610400285549615">With Love, From JIO.<iccid>
                 <vpn value="bcapd7363q@U72900GJ2007PLC105869">CIN</vpn>
                 <pkd>
                   <date value="date@14-04-2022">
@@ -58,7 +98,7 @@ federal bank
                       <validity value="date@14-10-2023">18 Month</validity>
                     </exp>
                   </date>
-                  <security value="jupiter@517" >
+                  <security value="jupiter@517">
                     <bank value="upi@9937090484">
                        <fedreal value="SBF011451021@4481-9800-5246-5914">FEDREAL BANK</fedreal>
                        <hdfc    value="MCTP11780721@4160-2108-3203-8155">HDFC BANK</hdfc>
@@ -77,7 +117,7 @@ federal bank
         </contacts>
       </room>
     </plot>
-</postall>
+</Postal>
 <country class="form-select" autocomplete="tel-country-code" name="countrycode" id="countrycode" data-target="two-factor-setup-verification.countryCodeSelect">
 <switch key="?passort=#####" >
       <code>
