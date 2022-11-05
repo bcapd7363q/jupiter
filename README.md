@@ -14,21 +14,10 @@ federal bank
     .storage{
 
     }
-    .generic{
-        ufd:'usb flash Drive";
-        usb:'cuber blade tm usb 2.0 flash drive";
-        TSSPDCL:'Telangana Southern Service Power Distirbution Company Ltd
-    }
-    .port{
-            let home = 5205:13853;
-            let bill = 5205:13854;     
-    }
-    .idc{
-           let id='111390401";
-           let reference='82211078908";
-           let meter = '56516769"
-    }
-    .code{
+    
+    
+    
+    .plug{
         .SDCZ50-032G-I35{
             tittle : "sandisk";
             name:generic('ufd");
