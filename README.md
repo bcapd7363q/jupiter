@@ -18,7 +18,7 @@ federal bank
         .SDCZ50-032G-I35{
             tittle : sandisk
             name:generic('usb flash Drive")
-            description : cuzer blad tm usb 2.0 flash drive
+            description : cuber blade tm usb 2.0 flash drive
             origin : Malaysia
             cz50 :32GB
             1GB : 1,000,000,000 bytes
