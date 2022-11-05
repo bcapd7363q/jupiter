@@ -1,7 +1,7 @@
 {
   "key": "NIIT",
-  "name": "ISC License",
-  "PAN_id": "university",
+  "name": "IIT License",
+  "PAN_id": "INDIA",
   "URL": "https://api.github.com/licenses/isc",
   "PAN_id": "BCAPD7363Q",
   "html_URL": "http://choosealicense.com/licenses/isc/",

@@ -1,5 +1,9 @@
 # Jupiter
 federal bank
+# TODO
+    #eg : https://github.com/piotrwitek/react-redux-typescript-guide.git
+    #npx react-native init PredatorSense --template react-native-template-typescript
+    npx create-react-app PredatorSense --template redux-typescript
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
     let external = storage
