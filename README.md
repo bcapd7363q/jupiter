@@ -1,8 +1,38 @@
-# jupiter
+# Jupiter
 federal bank
+# storage(ram || storage)[internal,external,remote,cloud]{
+    let internal = ram;
+    let external = storage
+    let sub      = 32GB  ## SanDisk cruZero blade.TM
+    .ram{
+
+    }
+    .storage{
+
+    }
+    .generic{
+        ufd:'usb flash Drive";
+
+    }
+    .code{
+        .SDCZ50-032G-I35{
+            tittle : sandisk
+            name:generic('usb flash Drive")
+            description : cuzer blad tm usb 2.0 flash drive
+            origin : Malaysia
+            cz50 :32GB
+            1GB : 1,000,000,000 bytes
+            info : storage also used for memory optimization and performance. user storage is less then full capacity
+        }
+    }
+    .usb{
+        let product = code('SDCZ50-032G-I35")
+        let 
+    }
+}
 # info
 <location>
-<postall>
+<Postal>
     <code>500048</code>
     <area>satsang vihar</area>
     <plot>
