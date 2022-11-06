@@ -6,10 +6,20 @@ federal bank
     #done# npx create-react-app PredatorSense --template redux-typescript
 
 
-# predator-modules(branch)
+# predator-modules(branch) 
   location
   sense
-  contacts('vCard")['vCard','eject",'print"]
+  contacts('vCard")['vCard','eject",'print"]{
+    .vCard{
+      .Dr[💉]{
+        .9700283043{
+          name:'fa-he-emu-d-d-in";
+          fullName:'Dr. Feheem Uddin";
+          job:'MBBS"
+        }
+      }
+    }
+  }
   drive('acer')['readmi",'lenovo",'acer",'sandisk"]
   insta('gram")['gram",'kilo",'bytes"]
   feeds('SHARE")['HOUSE",'PLACE",'OFFICE",'TIME",'TV",'FB",'TW",'YT"]
@@ -29,6 +39,11 @@ federal bank
   gov("in")['in",'cn",'pk",'ae"]
   myState('EMI")['realState",'emiBank",'EMI"]
   tradSport('UPI")['UPI",'freeLance",'client"]
+  centre('truelife')['truelife"]{
+        __constructor(contacts){
+          console.list('Dr:💉")
+        }
+  }
 
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
