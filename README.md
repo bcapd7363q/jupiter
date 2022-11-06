@@ -27,6 +27,7 @@ federal bank
   aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]
   pan('INDIA")['india.in",'Beijing.cn",'Islamabad.pk",'dubai.ae"]
   gov("in")['in",'cn",'pk",'ae"]
+  myState('EMI")['realState","emiBank"]
 
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
