@@ -22,8 +22,8 @@ federal bank
   issues
   stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
   aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]
-  pan('INDIA")['Beijing.cn",'Islamabad.pk",'dubai.ae"]
-
+  pan('INDIA")['india.in",'Beijing.cn",'Islamabad.pk",'dubai.ae"]
+  gov("in")['in",'cn",'pk",'ae"]
 
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
