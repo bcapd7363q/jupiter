@@ -21,7 +21,7 @@ federal bank
   re-search
   issues
   stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
-
+  aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]
 
 
 # storage(ram || storage)[internal,external,remote,cloud]{
