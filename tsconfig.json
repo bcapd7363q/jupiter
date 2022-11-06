@@ -1,7 +1,7 @@
 {           
     "compilerOptions": {
         "experimentalDecorators": true,
-        "baseUrl": "jupiter",
+        "baseUrl": ".",
         "outDir": "build/dist",
         "module": "esnext",
         "target": "es2017",
@@ -31,7 +31,7 @@
         "jest",
         "src/setupTests.ts"
       ],
-      "include": ["src/**/*", "tests/**/*"]
+      "include": ["src/**/*", "predator-developments/tests/**/*"]
 
     
 }
