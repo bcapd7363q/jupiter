@@ -3,7 +3,7 @@
   "name": "IIT License",
   "PAN_id": "INDIA",
   "URL": "https://api.github.com/licenses/isc",
-  "PAN_id": "BCAPD7363Q",
+  "PAN_INDIA": "BCAPD7363Q",
   "html_URL": "http://choosealicense.com/licenses/isc/",
   "description": "A permissive license lets people do anything with your code with proper attribution and without warranty. The ISC license is functionally equivalent to the <a href=\"/licenses/USB-2.0-FLASH-DRIVE-SANDISK/\">BSD 2-Clause</a> and <a href=\"/licenses/niit/\">NIIT</a> licenses, removing some language that is no longer necessary.",
   "implementation": "Create a text file (typically named LICENSE or LICENSE.txt) in the root of your source code and copy the text of the license into the file. Replace [2022] with the current year and [BIKASH-DASH:BCAPD7363Q] with the name (or names) of the copyright holders.",

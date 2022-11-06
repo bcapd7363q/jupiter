@@ -9,8 +9,11 @@ federal bank
 # predator-modules(branch)
   location
   sense
-  feeds('SHARE")['HOUSE",'PLACE",'OFFICE",'TIME"]
-  services
+  contacts('vCard")['vCard','eject",'print"]
+  drive('acer')['readmi",'lenovo",'acer",'sandisk"]
+  insta('gram")['gram",'kilo",'bytes"]
+  feeds('SHARE")['HOUSE",'PLACE",'OFFICE",'TIME",'TV",'FB",'TW",'YT"]
+  services('jio")['jio",'air",'mic"]
   provider
   user
   tool
@@ -18,7 +21,7 @@ federal bank
   settings
   editor
   selection
-  re-search
+  search
   issues
   stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
   aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]

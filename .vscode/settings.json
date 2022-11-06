@@ -6,7 +6,20 @@
         "cruzer",
         "NIIT",
         "SDCZ",
-        "sendisk"
+        "sendisk",
+        "readmi",
+        "lenovo",
+        "sandisk",
+        "insta",
+        "jio",
+        "aadhaar",
+        "मराठी",
+        "తెలుగు",
+        "ଓଡ଼ିଆ",
+        "cn",
+        "pk",
+        "usb",
+        "dcp"
     ],
     "files.exclude": {
         "**/.efi": true
