@@ -22,7 +22,7 @@ federal bank
   issues
   stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
   aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]
-  PAN('INDIA")['Beijing.cn",'Islamabad.pk",'dubai.ae"]
+  pan('INDIA")['Beijing.cn",'Islamabad.pk",'dubai.ae"]
 
 
 # storage(ram || storage)[internal,external,remote,cloud]{
