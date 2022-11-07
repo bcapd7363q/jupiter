@@ -9,6 +9,7 @@ federal bank
 # predator-modules(branch) 
   location
   sense
+  currency('crypto")['crypto",'rupee",'dollar"]
   contacts('vCard")['vCard','eject",'print"]{
     .vCard{
       .Dr[💉]{
@@ -285,7 +286,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section JUPITER [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -295,7 +296,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section JUPITER [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -315,11 +316,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## TS Config
 List of JUPITER access('ATM")['EVM",'ATM",'UPI",'VISA",'RUPEE"]
-<-- check fireFox about:config as re-Frances -->
+<-- check fireFox JUPITER:config as re-Frances -->
 <--re-act://192.168.1.3:3000/-->
-✅JUPITER[⚛️]//apps
+✅JUPITER[⚛️]://apps
+✅JUPITER[🌗]://Saturn-Planet
 🧑‍🦯JUPITER[📱]//location
-JUPITER://about
+JUPITER://JUPITER
 JUPITER://accessibility
 JUPITER://app-service-internals
 JUPITER://app-settings
@@ -400,7 +402,6 @@ List of JUPITER://internals pages
 JUPITER://internals/session-service
 For Debug
 The following pages are for debugging purposes only. Because they crash or hang the renderer, they're not linked directly; you can type them into the address bar if you need them.
-
 JUPITER://badcastcrash/
 JUPITER://inducebrowsercrashforrealz/
 JUPITER://inducebrowserdcheckforrealz/
@@ -425,3 +426,44 @@ JUPITER://re-redux/
 JUPITER://re-duck/
 JUPITER://re-toolkit/  
 JUPITER://re-docker/  
+JUPITER:addons
+JUPITER:buildconfig
+JUPITER:cache
+JUPITER:certificate
+JUPITER:checkerboard
+JUPITER:compat
+JUPITER:config
+JUPITER:crashes
+JUPITER:credits
+JUPITER:debugging
+JUPITER:downloads
+JUPITER:home
+JUPITER:license
+JUPITER:logins
+JUPITER:loginsimportreport
+JUPITER:logo
+JUPITER:memory
+JUPITER:mozilla
+JUPITER:networking
+JUPITER:newtab
+JUPITER:performance
+JUPITER:plugins
+JUPITER:policies
+JUPITER:preferences
+JUPITER:privatebrowsing
+JUPITER:processes
+JUPITER:profiles
+JUPITER:profiling
+JUPITER:protections
+JUPITER:rights
+JUPITER:robots
+JUPITER:serviceworkers
+JUPITER:studies
+JUPITER:support
+JUPITER:sync-log
+JUPITER:telemetry
+JUPITER:third-party
+JUPITER:unloads
+JUPITER:url-classifier
+JUPITER:webrtc('Vlc")
+JUPITER:welcome('AADHAAR")
