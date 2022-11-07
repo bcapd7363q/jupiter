@@ -317,11 +317,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 List of JUPITER access('ATM")['EVM",'ATM",'UPI",'VISA",'RUPEE"]
 <-- check fireFox about:config as re-Frances -->
 <--re-act://192.168.1.3:3000/-->
+✅JUPITER[⚛️]//apps
+🧑‍🦯JUPITER[📱]//location
 JUPITER://about
 JUPITER://accessibility
 JUPITER://app-service-internals
 JUPITER://app-settings
-JUPITER://apps
 JUPITER://attribution-internals
 JUPITER://autofill-internals
 JUPITER://blob-internals
