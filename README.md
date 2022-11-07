@@ -15,6 +15,8 @@ federal bank
           BOOK : 📘
           FONT : 🚲
           HP : ☎️
+          BANK : 🏦 
+          CARD : 💳
     }
 
     inject(💉):[💉]{
