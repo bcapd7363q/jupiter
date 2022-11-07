@@ -9,12 +9,30 @@ federal bank
 # predator-modules(branch) 
   location
   sense
-  currency('crypto")['crypto",'rupee",'dollar"]
+  system(⌨)[💉,🔈,⌨]{
+    keyboard ( ⌨ ){
+          KALI : ⌨
+          BOOK : 📘
+          FONT : 🚲
+          HP : ☎️
+    }
+
+    inject(💉):[💉]{
+        💉:injection,
+    }
+
+    speaker(🔈):[🔈]{
+         🔈  :sound
+         🔇 :mute
+    }
+
+  }
+  currency('crypto")['crypto",'rupee",'dollar",'yarn"]
   contacts('vCard")['vCard','eject",'print"]{
     .vCard{
       .Dr[💉]{
         .9700283043{
-          name:'fa-he-emu-d-d-in";
+          name(🔈):'fa-he-emu-d-d-in";
           fullName:'Dr. Feheem Uddin";
           job:'MBBS"
         }
