@@ -1,0 +1,24 @@
+{
+    "title": "Federal Bank",
+    "description": "https://jupiter.money/",
+    "type": "image[PNG,website,application,organization,image]",
+    "tags": [
+        "id",
+        "account",
+        "IP",
+        "card",
+        "loan",
+        "money",
+        "AADHAAR",
+        "pan",
+        "ATM",
+        "EVM",
+        "bank",
+        "name",
+        "Manager"
+],
+    "ignore": [
+        ".git/*",
+        "README.md"
+    ]
+}

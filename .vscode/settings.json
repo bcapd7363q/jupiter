@@ -24,5 +24,16 @@
     "files.exclude": {
         "**/.efi": true
     },
-    "search.useGlobalIgnoreFiles": true
+    "search.useGlobalIgnoreFiles": true,
+    "spellright.language": [
+        "Engine"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "json"
+    ],
+    "files.autoSave": "onFocusChange",
+    "cSpell.language": "en-GB,ru-RU,pn-BCAPD7363Q"
 }

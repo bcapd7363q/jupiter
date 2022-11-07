@@ -5,6 +5,7 @@ federal bank
     #npx react-native init PredatorSense --template #react-native-template-typescript
     #done# npx create-react-app PredatorSense --template redux-typescript
 
+    #https([ 🎹, 🎵, 🎼 ])(https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/07/openhouseforbutterflies25.jpg?w=680&ssl=1)
 
 # predator-modules(branch) 
   location
@@ -17,6 +18,7 @@ federal bank
           HP : ☎️
           BANK : 🏦 
           CARD : 💳
+          CPNO : 🎹    
     }
 
     inject(💉):[💉]{
