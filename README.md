@@ -1,5 +1,5 @@
-# Jupiter
-federal bank
+# 🅹🆄🅿🅸🆃🅴🆁
+🅵🅴🅳🅴🆁🅰🅻 🅱🅰🅽🅺
 # TODO
     #eg : https://github.com/piotrwitek/react-redux-typescript-guide.git
     #npx react-native init PredatorSense --template #react-native-template-typescript
