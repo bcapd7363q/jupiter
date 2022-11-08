@@ -7,6 +7,14 @@ federal bank
 
     #https([ 🎹, 🎵, 🎼 ])(https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/07/openhouseforbutterflies25.jpg?w=680&ssl=1)
 
+# predator
+
+modules | TOUCH | EVM
+--- | --- | ---
+``location`` | **scene** | **signature**
+🧑‍🦯 | 🎭 | 🎭
+
+
 # predator-modules(branch) 
   location
   sense
