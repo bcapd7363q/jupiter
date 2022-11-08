@@ -8,6 +8,7 @@
     #https([ 🎹, 🎵, 🎼 ])(https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/07/openhouseforbutterflies25.jpg?w=680&ssl=1)
 
 # predator-modules(branch) 
+```
   location
   sense
   system(⌨)[💉,🔈,⌨]{
@@ -47,15 +48,6 @@
   insta('gram")['gram",'kilo",'bytes"]
   feeds('SHARE")['HOUSE",'PLACE",'OFFICE",'TIME",'TV",'FB",'TW",'YT"]
   services('jio")['jio",'air",'mic"]
-  provider
-  user
-  tool
-  preference
-  settings
-  editor
-  selection
-  search
-  issues
   stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
   aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]
   pan('INDIA")['india.in",'Beijing.cn",'Islamabad.pk",'dubai.ae"]
@@ -67,6 +59,18 @@
           console.list('Dr:💉")
         }
   }
+```
+# tabs (menu)
+ - provider
+ - user
+ - tool
+ - preference
+ - settings
+ - editor
+ - selection
+ - search
+ - issues
+ 
 
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
@@ -109,6 +113,7 @@
     }
 }
 # info
+```html
 <location>
 <Postal>
     <pinPoint></pinPoint>
@@ -289,6 +294,7 @@
 </country>
           
 </location>
+```html
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
