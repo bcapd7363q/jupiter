@@ -5,7 +5,7 @@
     #npx react-native init PredatorSense --template #react-native-template-typescript
     #done# npx create-react-app PredatorSense --template redux-typescript
 
-    #https([ 🎹, 🎵, 🎼 ])(https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/07/openhouseforbutterflies25.jpg?w=680&ssl=1)
+    [ 🎹, 🎵, 🎼 ](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/07/openhouseforbutterflies25.jpg?w=680&ssl=1)
 
 # predator-modules(branch) 
 ```
@@ -112,6 +112,157 @@
           }
     }
 }
+#about
+
+- ✅JUPITER[⚛️]://apps
+- ✅JUPITER[🌗]://Saturn-Planet
+- 🧑‍🦯JUPITER[📱]//location
+- JUPITER://JUPITER
+- JUPITER://accessibility
+- JUPITER://app-service-internals
+- JUPITER://app-settings
+- JUPITER://attribution-internals
+- JUPITER://autofill-internals
+- JUPITER://blob-internals
+- JUPITER://blue-tooth-internals
+- JUPITER://bookmarks
+- JUPITER://JUPITER-urls
+- JUPITER://components
+- JUPITER://conflicts
+- JUPITER://connectors-internals
+- JUPITER://crashes
+- JUPITER://credits
+- JUPITER://device-log
+- JUPITER://dino
+- JUPITER://discards
+- JUPITER://download-internals
+- JUPITER://downloads
+- JUPITER://extensions
+- JUPITER://extensions-internals
+- JUPITER://flags
+- JUPITER://gcm-internals
+- JUPITER://gpu
+- JUPITER://help
+- JUPITER://histograms
+- JUPITER://history
+- JUPITER://history-clusters-internals
+- JUPITER://indexeddb-internals
+- JUPITER://inspect
+- JUPITER://interstitials
+- JUPITER://invalidations
+- JUPITER://local-state
+- JUPITER://management
+- JUPITER://media-engagement
+- JUPITER://media-internals
+- JUPITER://nacl
+- JUPITER://net-export
+- JUPITER://net-internals
+- JUPITER://network-errors
+- JUPITER://new-tab-page
+- JUPITER://new-tab-page-third-party
+- JUPITER://newtab
+- JUPITER://ntp-tiles-internals
+- JUPITER://omnibox
+- JUPITER://optimization-guide-internals
+- JUPITER://password-manager
+- JUPITER://password-manager-internals
+- JUPITER://policy
+- JUPITER://predictors
+- JUPITER://prefs-internals
+- JUPITER://print
+- JUPITER://private-aggregation-internals
+- JUPITER://process-internals
+- JUPITER://profile-internals
+- JUPITER://quota-internals
+- JUPITER://safe-browsing
+- JUPITER://sandbox
+- JUPITER://serviceworker-internals
+- JUPITER://settings
+- JUPITER://signin-internals
+- JUPITER://site-engagement
+- JUPITER://sync-internals
+- JUPITER://system
+- JUPITER://terms
+- JUPITER://topics-internals
+- JUPITER://tracing
+- JUPITER://translate-internals
+- JUPITER://ukm
+- JUPITER://usb-internals
+- JUPITER://user-actions
+- JUPITER://version
+- JUPITER://web-app-internals
+- JUPITER://webrtc-internals
+- JUPITER://webrtc-logs
+- JUPITER://whats-new
+- List of JUPITER://internals pages
+- JUPITER://internals/session-service
+# For Debug
+```The following pages are for debugging purposes only. Because they crash or hang the renderer, they're not linked directly; you can type them into the address bar if you need them.```
+- JUPITER://badcastcrash/
+- JUPITER://inducebrowsercrashforrealz/
+- JUPITER://inducebrowserdcheckforrealz/
+- JUPITER://crash/
+- JUPITER://crashdump/
+- JUPITER://kill/
+- JUPITER://hang/
+- JUPITER://shorthang/
+- JUPITER://gpuclean/
+- JUPITER://gpucrash/
+- JUPITER://gpuhang/
+- JUPITER://memory-exhaust/
+- JUPITER://memory-pressure-critical/
+- JUPITER://memory-pressure-moderate/
+- JUPITER://inducebrowserheapcorruption/
+- JUPITER://crash/cfg
+- JUPITER://heapcorruptioncrash/
+- JUPITER://quit/
+- JUPITER://restart/
+- JUPITER://re-act/
+- JUPITER://re-redux/
+- JUPITER://re-duck/
+- JUPITER://re-toolkit/  
+- JUPITER://re-docker/  
+- JUPITER:addons
+- JUPITER:buildconfig
+- JUPITER:cache
+- JUPITER:certificate
+- JUPITER:checkerboard
+- JUPITER:compat
+- JUPITER:config
+- JUPITER:crashes
+- JUPITER:credits
+- JUPITER:debugging
+- JUPITER:downloads
+- JUPITER:home
+- JUPITER:license
+- JUPITER:logins
+- JUPITER:loginsimportreport
+- JUPITER:logo
+- JUPITER:memory
+- JUPITER:mozilla
+- JUPITER:networking
+- JUPITER:newtab
+- JUPITER:performance
+- JUPITER:plugins
+- JUPITER:policies
+- JUPITER:preferences
+- JUPITER:privatebrowsing
+- JUPITER:processes
+- JUPITER:profiles
+- JUPITER:profiling
+- JUPITER:protections
+- JUPITER:rights
+- JUPITER:robots
+- JUPITER:serviceworkers
+- JUPITER:studies
+- JUPITER:support
+- JUPITER:sync-log
+- JUPITER:telemetry
+- JUPITER:third-party
+- JUPITER:unloads
+- JUPITER:url-classifier
+- JUPITER:webrtc('Vlc")
+- JUPITER:welcome('AADHAAR")
 # info
 ```html
 <location>
@@ -294,7 +445,7 @@
 </country>
           
 </location>
-```html
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
@@ -344,154 +495,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## TS Config
 List of JUPITER access('ATM")['EVM",'ATM",'UPI",'VISA",'RUPEE"]
-<-- check fireFox JUPITER:config as re-Frances -->
-<--re-act://192.168.1.3:3000/-->
-✅JUPITER[⚛️]://apps
-✅JUPITER[🌗]://Saturn-Planet
-🧑‍🦯JUPITER[📱]//location
-JUPITER://JUPITER
-JUPITER://accessibility
-JUPITER://app-service-internals
-JUPITER://app-settings
-JUPITER://attribution-internals
-JUPITER://autofill-internals
-JUPITER://blob-internals
-JUPITER://blue-tooth-internals
-JUPITER://bookmarks
-JUPITER://JUPITER-urls
-JUPITER://components
-JUPITER://conflicts
-JUPITER://connectors-internals
-JUPITER://crashes
-JUPITER://credits
-JUPITER://device-log
-JUPITER://dino
-JUPITER://discards
-JUPITER://download-internals
-JUPITER://downloads
-JUPITER://extensions
-JUPITER://extensions-internals
-JUPITER://flags
-JUPITER://gcm-internals
-JUPITER://gpu
-JUPITER://help
-JUPITER://histograms
-JUPITER://history
-JUPITER://history-clusters-internals
-JUPITER://indexeddb-internals
-JUPITER://inspect
-JUPITER://interstitials
-JUPITER://invalidations
-JUPITER://local-state
-JUPITER://management
-JUPITER://media-engagement
-JUPITER://media-internals
-JUPITER://nacl
-JUPITER://net-export
-JUPITER://net-internals
-JUPITER://network-errors
-JUPITER://new-tab-page
-JUPITER://new-tab-page-third-party
-JUPITER://newtab
-JUPITER://ntp-tiles-internals
-JUPITER://omnibox
-JUPITER://optimization-guide-internals
-JUPITER://password-manager
-JUPITER://password-manager-internals
-JUPITER://policy
-JUPITER://predictors
-JUPITER://prefs-internals
-JUPITER://print
-JUPITER://private-aggregation-internals
-JUPITER://process-internals
-JUPITER://profile-internals
-JUPITER://quota-internals
-JUPITER://safe-browsing
-JUPITER://sandbox
-JUPITER://serviceworker-internals
-JUPITER://settings
-JUPITER://signin-internals
-JUPITER://site-engagement
-JUPITER://sync-internals
-JUPITER://system
-JUPITER://terms
-JUPITER://topics-internals
-JUPITER://tracing
-JUPITER://translate-internals
-JUPITER://ukm
-JUPITER://usb-internals
-JUPITER://user-actions
-JUPITER://version
-JUPITER://web-app-internals
-JUPITER://webrtc-internals
-JUPITER://webrtc-logs
-JUPITER://whats-new
-List of JUPITER://internals pages
-JUPITER://internals/session-service
-For Debug
-The following pages are for debugging purposes only. Because they crash or hang the renderer, they're not linked directly; you can type them into the address bar if you need them.
-JUPITER://badcastcrash/
-JUPITER://inducebrowsercrashforrealz/
-JUPITER://inducebrowserdcheckforrealz/
-JUPITER://crash/
-JUPITER://crashdump/
-JUPITER://kill/
-JUPITER://hang/
-JUPITER://shorthang/
-JUPITER://gpuclean/
-JUPITER://gpucrash/
-JUPITER://gpuhang/
-JUPITER://memory-exhaust/
-JUPITER://memory-pressure-critical/
-JUPITER://memory-pressure-moderate/
-JUPITER://inducebrowserheapcorruption/
-JUPITER://crash/cfg
-JUPITER://heapcorruptioncrash/
-JUPITER://quit/
-JUPITER://restart/
-JUPITER://re-act/
-JUPITER://re-redux/
-JUPITER://re-duck/
-JUPITER://re-toolkit/  
-JUPITER://re-docker/  
-JUPITER:addons
-JUPITER:buildconfig
-JUPITER:cache
-JUPITER:certificate
-JUPITER:checkerboard
-JUPITER:compat
-JUPITER:config
-JUPITER:crashes
-JUPITER:credits
-JUPITER:debugging
-JUPITER:downloads
-JUPITER:home
-JUPITER:license
-JUPITER:logins
-JUPITER:loginsimportreport
-JUPITER:logo
-JUPITER:memory
-JUPITER:mozilla
-JUPITER:networking
-JUPITER:newtab
-JUPITER:performance
-JUPITER:plugins
-JUPITER:policies
-JUPITER:preferences
-JUPITER:privatebrowsing
-JUPITER:processes
-JUPITER:profiles
-JUPITER:profiling
-JUPITER:protections
-JUPITER:rights
-JUPITER:robots
-JUPITER:serviceworkers
-JUPITER:studies
-JUPITER:support
-JUPITER:sync-log
-JUPITER:telemetry
-JUPITER:third-party
-JUPITER:unloads
-JUPITER:url-classifier
-JUPITER:webrtc('Vlc")
-JUPITER:welcome('AADHAAR")
