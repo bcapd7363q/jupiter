@@ -1,52 +1,146 @@
 # 🅹🆄🅿🅸🆃🅴🆁
-🅹🆄🅿🅸🆃🅴🆁
+🅵🅴🅳🅴🆁🅰🅻 🅱🅰🅽🅺
+# TODO
+    #eg : https://github.com/piotrwitek/react-redux-typescript-guide.git
+    #npx react-native init PredatorSense --template #react-native-template-typescript
+    #done# npx create-react-app PredatorSense --template redux-typescript
+
+    #https([ 🎹, 🎵, 🎼 ])(https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2013/07/openhouseforbutterflies25.jpg?w=680&ssl=1)
+
+# predator-modules(branch) 
+  location
+  sense
+  system(⌨)[💉,🔈,⌨]{
+    keyboard ( ⌨ ){
+          KALI : ⌨
+          BOOK : 📘
+          FONT : 🚲
+          HP : ☎️
+          BANK : 🏦 
+          CARD : 💳
+          CPNO : 🎹    
+    }
+
+    inject(💉):[💉]{
+        💉:injection,
+    }
+
+    speaker(🔈):[🔈]{
+         🔈  :sound
+         🔇 :mute
+    }
+
+  }
+  currency('crypto")['crypto",'rupee",'dollar",'yarn"]
+  contacts('vCard")['vCard','eject",'print"]{
+    .vCard{
+      .Dr[💉]{
+        .9700283043{
+          name(🔈):'fa-he-emu-d-d-in";
+          fullName:'Dr. Feheem Uddin";
+          job:'MBBS"
+        }
+      }
+    }
+  }
+  drive('acer')['readmi",'lenovo",'acer",'sandisk"]
+  insta('gram")['gram",'kilo",'bytes"]
+  feeds('SHARE")['HOUSE",'PLACE",'OFFICE",'TIME",'TV",'FB",'TW",'YT"]
+  services('jio")['jio",'air",'mic"]
+  provider
+  user
+  tool
+  preference
+  settings
+  editor
+  selection
+  search
+  issues
+  stock('information")["information","credit","debit","loan","insurance","lifeCover","achievements"]
+  aadhaar('मराठी")["मराठी","తెలుగు","ଓଡ଼ିଆ"]
+  pan('INDIA")['india.in",'Beijing.cn",'Islamabad.pk",'dubai.ae"]
+  gov("in")['in",'cn",'pk",'ae"]
+  myState('EMI")['realState",'emiBank",'EMI"]
+  tradSport('UPI")['UPI",'freeLance",'client"]
+  centre('truelife')['truelife"]{
+        __constructor(contacts){
+          console.list('Dr:💉")
+        }
+  }
+
 # storage(ram || storage)[internal,external,remote,cloud]{
     let internal = ram;
-    let external = storage
-    let sub      = 32GB  ## SanDisk cruZero blade.TM
+    let external = storage;
+    let sub      = 32GB;  ## SanDisk cruZero blade.TM
     .ram{
 
     }
     .storage{
 
     }
-    .generic{
-        ufd:'usb flash Drive";
-
-    }
-    .code{
-        .SDCZ50-032G-I35{
-            tittle : sandisk
-            name:generic('usb flash Drive")
-            description : cuber blade tm usb 2.0 flash drive
-            origin : Malaysia
-            cz50 :32GB
-            1GB : 1,000,000,000 bytes
-            info : storage also used for memory optimization and performance. user storage is less then full capacity
-        }
-    }
+    
+    
+    
     .usb{
         let product = code('SDCZ50-032G-I35")
-        let 
+        let devise  = are[phone:readMe,driver:sanDisk]
+    }
+    .dcp{#info or news
+          .location{
+              .postal{
+                pinPoint:500048;
+                area:"RAJENDERNAGER,Hyderabad";
+                plot(room)['room",'tp",'service",'area",'GRP",'SC",'BILL",'FL",'REFERENCE",'COL"]{
+                        .room{##room is default switch cash
+                              let id = 111390401;
+                              let service= generic('TSSPDCL");
+                              let area=5205;
+                              let GRP=M;
+                              let SC=port('home");
+                              let BILL=post('bill");
+                              let FL = 302;
+                              let REFERENCE = 82211078908;
+                              let meter = 56516769
+
+                        }
+                }
+              }
+          }
     }
 }
 # info
 <location>
 <Postal>
-    <code>500048</code>
-    <area>satsang vihar</area>
+    <pinPoint></pinPoint>
+    <area></area>
     <plot>
       <room>
-        <tp id="?ebill=#####" >
-          <service>tpsodl</service>
+        <tp id="" >
+          <!-- <service>TSSPDCL</service>
+          <area>5205</area>
+          <GRP>M</GRP>
+          <SC.NO>5205-13853</SC.NO> 
+          <BILL.NO>5205-13854</BILL.NO>-->
+          <!-- <FL.NO>302</FL.NO> -->
+          <REFERENCE.ID></REFERENCE.ID>
+          <COL>HAPPY HOME</COL>
+          <META>
+              <!-- <METER.NO>56516769<METER.NO> -->
+              <KWH><PREVIOUS>19288</PREVIOUS><PRESENT>19606</PRESENT></KWH>
+              <UNITS>318</UNITS>
+              <DAYS>29</DAYS>
+              <RMD>3.81</RMD>
+              <AAO><ERO>322</ERO></AAO>
+          <META>
+          <USC>111390395</USC>
         </tp>
         <contacts value="passport@v4904657">
           <tel value="+1947">
             <aadhaar value="7240.5889.1408">
               <phone value="user@olivewood">Redmi</phone>
               <cell>
-                <numbers value="num@9937090484">jio</numbers>
-                <iccid value="id@89918610400285549615">With Love, From Jio.<iccid>
+                <numbers value="num@9937090484">JIO</numbers>
+                <iccid value="id@89918610400285549615">With Love, From JIO.<iccid>
                 <vpn value="bcapd7363q@U72900GJ2007PLC105869">CIN</vpn>
                 <pkd>
                   <date value="date@14-04-2022">
@@ -54,7 +148,7 @@
                       <validity value="date@14-10-2023">18 Month</validity>
                     </exp>
                   </date>
-                  <security value="jupiter@517" >
+                  <security value="jupiter@517">
                     <bank value="upi@9937090484">
                        <fedreal value="SBF011451021@4481-9800-5246-5914">FEDREAL BANK</fedreal>
                        <hdfc    value="MCTP11780721@4160-2108-3203-8155">HDFC BANK</hdfc>
@@ -73,7 +167,7 @@
         </contacts>
       </room>
     </plot>
-</postall>
+</Postal>
 <country class="form-select" autocomplete="tel-country-code" name="countrycode" id="countrycode" data-target="two-factor-setup-verification.countryCodeSelect">
 <switch key="?passort=#####" >
       <code>
@@ -195,3 +289,203 @@
 </country>
           
 </location>
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section JUPITER [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section JUPITER [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+## TS Config
+List of JUPITER access('ATM")['EVM",'ATM",'UPI",'VISA",'RUPEE"]
+<-- check fireFox JUPITER:config as re-Frances -->
+<--re-act://192.168.1.3:3000/-->
+✅JUPITER[⚛️]://apps
+✅JUPITER[🌗]://Saturn-Planet
+🧑‍🦯JUPITER[📱]//location
+JUPITER://JUPITER
+JUPITER://accessibility
+JUPITER://app-service-internals
+JUPITER://app-settings
+JUPITER://attribution-internals
+JUPITER://autofill-internals
+JUPITER://blob-internals
+JUPITER://blue-tooth-internals
+JUPITER://bookmarks
+JUPITER://JUPITER-urls
+JUPITER://components
+JUPITER://conflicts
+JUPITER://connectors-internals
+JUPITER://crashes
+JUPITER://credits
+JUPITER://device-log
+JUPITER://dino
+JUPITER://discards
+JUPITER://download-internals
+JUPITER://downloads
+JUPITER://extensions
+JUPITER://extensions-internals
+JUPITER://flags
+JUPITER://gcm-internals
+JUPITER://gpu
+JUPITER://help
+JUPITER://histograms
+JUPITER://history
+JUPITER://history-clusters-internals
+JUPITER://indexeddb-internals
+JUPITER://inspect
+JUPITER://interstitials
+JUPITER://invalidations
+JUPITER://local-state
+JUPITER://management
+JUPITER://media-engagement
+JUPITER://media-internals
+JUPITER://nacl
+JUPITER://net-export
+JUPITER://net-internals
+JUPITER://network-errors
+JUPITER://new-tab-page
+JUPITER://new-tab-page-third-party
+JUPITER://newtab
+JUPITER://ntp-tiles-internals
+JUPITER://omnibox
+JUPITER://optimization-guide-internals
+JUPITER://password-manager
+JUPITER://password-manager-internals
+JUPITER://policy
+JUPITER://predictors
+JUPITER://prefs-internals
+JUPITER://print
+JUPITER://private-aggregation-internals
+JUPITER://process-internals
+JUPITER://profile-internals
+JUPITER://quota-internals
+JUPITER://safe-browsing
+JUPITER://sandbox
+JUPITER://serviceworker-internals
+JUPITER://settings
+JUPITER://signin-internals
+JUPITER://site-engagement
+JUPITER://sync-internals
+JUPITER://system
+JUPITER://terms
+JUPITER://topics-internals
+JUPITER://tracing
+JUPITER://translate-internals
+JUPITER://ukm
+JUPITER://usb-internals
+JUPITER://user-actions
+JUPITER://version
+JUPITER://web-app-internals
+JUPITER://webrtc-internals
+JUPITER://webrtc-logs
+JUPITER://whats-new
+List of JUPITER://internals pages
+JUPITER://internals/session-service
+For Debug
+The following pages are for debugging purposes only. Because they crash or hang the renderer, they're not linked directly; you can type them into the address bar if you need them.
+JUPITER://badcastcrash/
+JUPITER://inducebrowsercrashforrealz/
+JUPITER://inducebrowserdcheckforrealz/
+JUPITER://crash/
+JUPITER://crashdump/
+JUPITER://kill/
+JUPITER://hang/
+JUPITER://shorthang/
+JUPITER://gpuclean/
+JUPITER://gpucrash/
+JUPITER://gpuhang/
+JUPITER://memory-exhaust/
+JUPITER://memory-pressure-critical/
+JUPITER://memory-pressure-moderate/
+JUPITER://inducebrowserheapcorruption/
+JUPITER://crash/cfg
+JUPITER://heapcorruptioncrash/
+JUPITER://quit/
+JUPITER://restart/
+JUPITER://re-act/
+JUPITER://re-redux/
+JUPITER://re-duck/
+JUPITER://re-toolkit/  
+JUPITER://re-docker/  
+JUPITER:addons
+JUPITER:buildconfig
+JUPITER:cache
+JUPITER:certificate
+JUPITER:checkerboard
+JUPITER:compat
+JUPITER:config
+JUPITER:crashes
+JUPITER:credits
+JUPITER:debugging
+JUPITER:downloads
+JUPITER:home
+JUPITER:license
+JUPITER:logins
+JUPITER:loginsimportreport
+JUPITER:logo
+JUPITER:memory
+JUPITER:mozilla
+JUPITER:networking
+JUPITER:newtab
+JUPITER:performance
+JUPITER:plugins
+JUPITER:policies
+JUPITER:preferences
+JUPITER:privatebrowsing
+JUPITER:processes
+JUPITER:profiles
+JUPITER:profiling
+JUPITER:protections
+JUPITER:rights
+JUPITER:robots
+JUPITER:serviceworkers
+JUPITER:studies
+JUPITER:support
+JUPITER:sync-log
+JUPITER:telemetry
+JUPITER:third-party
+JUPITER:unloads
+JUPITER:url-classifier
+JUPITER:webrtc('Vlc")
+JUPITER:welcome('AADHAAR")
